@@ -1,0 +1,11 @@
+{
+  "name": "otmyvvpn-backend",
+  "private": true,
+  "type": "module",
+  "dependencies": {},
+  "scripts": {
+    "dev": "vercel dev",
+    "start": "node",
+    "build": "echo 'no build'"
+  }
+}
